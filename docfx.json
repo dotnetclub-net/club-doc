@@ -3,8 +3,10 @@
     "content": [
       {
         "files": [
-          "articles/**.md",
-          "articles/**/toc.yml",
+          "docs/**.md",
+          "docs/**/toc.yml",
+          "dev/**.md",
+          "dev/**/toc.yml",
           "toc.yml",
           "*.md"
         ]
@@ -28,6 +30,6 @@
     "noLangKeyword": false,
     "keepFileLink": false,
     "cleanupCacheHistory": false,
-    "disableGitFeatures": false
+    "disableGitFeatures": true
   }
 }
