@@ -10,3 +10,5 @@
   href: topic.md
 - name: 导入微信对话
   href: import-from-wechat.md
+- name: 获取帮助
+  href: help.md
